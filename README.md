@@ -1,4 +1,4 @@
-# <span style="color:dodgerblue;">Solic-Assessment</span>
+# <span style="color:dodgerblue;">Solis-Assessment</span>
 ## <span style="color:dodgerblue;">How to Preview README.md in Vscode When Editing</span>
 ````bash
 cmd + shift + v
